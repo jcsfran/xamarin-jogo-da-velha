@@ -1,0 +1,15 @@
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\bin\Debug\netstandard2.0\AppJogoVelha.deps.json
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\bin\Debug\netstandard2.0\AppJogoVelha.dll
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\bin\Debug\netstandard2.0\AppJogoVelha.pdb
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\obj\Debug\netstandard2.0\AppJogoVelha.csproj.AssemblyReference.cache
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\obj\Debug\netstandard2.0\AppJogoVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\obj\Debug\netstandard2.0\AppJogoVelha.AssemblyInfoInputs.cache
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\obj\Debug\netstandard2.0\AppJogoVelha.AssemblyInfo.cs
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\obj\Debug\netstandard2.0\AppJogoVelha.csproj.CoreCompileInputs.cache
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\obj\Debug\netstandard2.0\AppJogoVelha.dll
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\obj\Debug\netstandard2.0\refint\AppJogoVelha.dll
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\obj\Debug\netstandard2.0\AppJogoVelha.pdb
+C:\Users\0200832011014\Desktop\AppJogoVelha\AppJogoVelha\AppJogoVelha\obj\Debug\netstandard2.0\ref\AppJogoVelha.dll
